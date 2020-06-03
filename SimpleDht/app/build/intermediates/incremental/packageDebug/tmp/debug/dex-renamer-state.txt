@@ -1,0 +1,4 @@
+#Sat May 02 23:54:37 EDT 2020
+base.0=/home/sufiyan/UB/Sem2/DS/PA3/SimpleDht/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
