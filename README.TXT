@@ -6,5 +6,6 @@ There are specifically three things that I have implemented:
   3) Node joins
 
 Steps Taken:
-1) Writing the Content Provider
-2) Writing the Main Activity
+  1) Writing the Content Provider
+  2) Writing the Main Activity
+
