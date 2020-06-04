@@ -10,7 +10,7 @@ Steps Taken:
   2) Writing the Main Activity
 
 Other Files:
-  1) Create AVDs -
-  2) Run AVDs -
-  3) Establish Connection - 
-  4) Test application -
+  1) Create AVDs - create_avd.py
+  2) Run AVDs - run_avd.py
+  3) Establish Connection - set_redir.py 
+  4) Test application - 
