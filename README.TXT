@@ -14,4 +14,3 @@ Other Files:
   2) Run AVDs - run_avd.py
   3) Establish Connection - set_redir.py 
   4) Test application - 
-
