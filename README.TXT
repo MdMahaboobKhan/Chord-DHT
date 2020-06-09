@@ -13,4 +13,4 @@ Other Files:
   1) Create AVDs - create_avd.py
   2) Run AVDs - run_avd.py
   3) Establish Connection - set_redir.py 
-  4) Test application - 
+  4) Test application - simpledht-grading.linux
